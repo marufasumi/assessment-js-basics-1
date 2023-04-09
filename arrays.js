@@ -56,4 +56,4 @@ for (let i = 0; i < bigOrSmallArray.length; i++) {
   
 }
 
-console.log(`The answer array is :  ${answers}`);
+console.log(`The answers array is :  ${answers}`);
